@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FamilyCore.Module", "FamilyCore.Module\FamilyCore.Module.csproj", "{65A0E3EC-C19D-4E62-87F7-3A776D058CF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FamilyCore.Blazor.Server", "FamilyCore.Blazor.Server\FamilyCore.Blazor.Server.csproj", "{4059740D-AAAD-4562-B102-A512F2FFC7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65A0E3EC-C19D-4E62-87F7-3A776D058CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A0E3EC-C19D-4E62-87F7-3A776D058CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A0E3EC-C19D-4E62-87F7-3A776D058CF4}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{65A0E3EC-C19D-4E62-87F7-3A776D058CF4}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{65A0E3EC-C19D-4E62-87F7-3A776D058CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A0E3EC-C19D-4E62-87F7-3A776D058CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4059740D-AAAD-4562-B102-A512F2FFC7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4059740D-AAAD-4562-B102-A512F2FFC7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4059740D-AAAD-4562-B102-A512F2FFC7CA}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{4059740D-AAAD-4562-B102-A512F2FFC7CA}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{4059740D-AAAD-4562-B102-A512F2FFC7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4059740D-AAAD-4562-B102-A512F2FFC7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
